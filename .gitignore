@@ -1,3 +1,8 @@
+# CodeBlocks project files
+*.cbp
+*.depend
+*.layout
+
 # Prerequisites
 *.d
 
